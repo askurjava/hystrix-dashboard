@@ -58,7 +58,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		
+		<finalName>hystrix-dashboard</finalName>
 	</build>
 
 </project>
